@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Kedar Baswade
-### Full-Stack & Backend Systems Engineer • ML/XAI • Competitive Programmer
+### Full-Stack & Backend Systems Engineer • ML/DL • Competitive Programmer
 
 <a href="https://github.com/kd4dev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=E7B832&center=true&vCenter=true&width=640&lines=Software+Engineer+%E2%80%A2+Backend+%26+Distributed+Systems;CS+(Artificial+Intelligence)+%40+VIT+Pune+(CGPA+8.82);LeetCode+Knight+(Peak+Rating%3A+1931+%7C+1000%2B+Solved);Building+Explainable+AI+(SHAP)+%26+Microservices;Event-Driven+Workflows+with+Zero-Polling+Architecture" alt="Typing SVG" />
