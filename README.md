@@ -16,10 +16,8 @@
 ### 🚀 About Me
 
 - 🎓 **Undergraduate**: B.Tech in Computer Science (Artificial Intelligence) at **Vishwakarma Institute of Technology (VIT), Pune** (CGPA: **8.82** / 10).
-- ⚙️ **Core Focus**: Designing resilient backend systems, microservices architectures, explainable AI (XAI) pipelines, and high-performance developer tools.
+- ⚙️ **Core Focus**: Designing resilient backend systems, microservices architectures, and high-performance developer tools.
 - 🧠 **Problem Solving**: **LeetCode Knight** (Peak Rating: **1931**, **1000+** solved) and **Codeforces Pupil** (Peak Rating: **1209**).
-- 🏆 **Hackathons**: Led backend engineering and team integration for **ODDO** and **Barclays** hackathons.
-- 🌟 **Open Source**: **Super Contributor** — Hacktoberfest 2024.
 
 ---
 
