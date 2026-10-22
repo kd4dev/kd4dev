@@ -4,7 +4,7 @@
 ### Full-Stack & Backend Systems Engineer • ML/DL • Competitive Programmer
 
 <a href="https://github.com/kd4dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=E7B832&center=true&vCenter=true&width=640&lines=Software+Engineer+%E2%80%A2+Backend+%26+Distributed+Systems;CS+(Artificial+Intelligence)+%40+VIT+Pune+(CGPA+8.82);LeetCode+Knight+(Peak+Rating%3A+1931+%7C+1000%2B+Solved);Building+Explainable+AI+(SHAP)+%26+Microservices;Event-Driven+Workflows+with+Zero-Polling+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=E7B832&center=true&vCenter=true&width=640&lines=Software+Engineer+%E2%80%A2+Backend+%26+Distributed+Systems;CS+(Artificial+Intelligence)+%40+VIT+Pune+(CGPA+8.82);LeetCode+Knight+(Peak+Rating%3A+1931+%7C+1000%2B+Solved);Building+Scalable+Machine+Learning+%26+Microservices;Event-Driven+Workflows+with+Zero-Polling+Architecture" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,7 +35,7 @@ identity:
   engineering_principles:
     - "Event-driven durable workflows > Wasteful cron polling"
     - "Microservices with strict contract validation & mock fallback resilience"
-    - "Glass-box Explainable AI (SHAP) > Untrusted black boxes"
+    - "Standardized ML preprocessing & reproducible validation pipelines"
     - "Atomic I/O transactions & multi-document ACID safety"
 ```
 
@@ -85,11 +85,11 @@ Click each project below to reveal the **System Architecture Blueprint & Data Fl
 </details>
 
 <details open>
-<summary><b>📊 Loan Approval Explainer — Explainable AI (XAI) Platform (FastAPI, Express, scikit-learn, SHAP)</b></summary>
+<summary><b>📊 Loan Approval Predictor — Machine Learning Microservice (FastAPI, Express, scikit-learn)</b></summary>
 <br/>
 
-> **Core Problem:** ML credit scoring models act as black boxes; rejected applicants are never told *why* they were denied.  
-> **Solution:** Decoupled microservice architecture marrying an Express API gateway with a FastAPI ML service producing per-applicant SHAP feature weights.
+> **Core Problem:** Credit scoring requires low-latency inference pipelines, standardized data preprocessing, and decoupled gateway fallback reliability.  
+> **Solution:** Decoupled microservice architecture pairing an Express API gateway with a high-performance FastAPI ML service.
 
 ```
 [Client Request] ──► [Express Gateway (Port 5000)] ──► [FastAPI Model Service (Port 8000)]
@@ -97,10 +97,10 @@ Click each project below to reveal the **System Architecture Blueprint & Data Fl
                            ▼                                     ▼
                       [MongoDB]                       [Random Forest / Logistic Reg]
                                                                  │
-[SHAP Attribution Breakdown] ◄───────────────────────────────────┴── [TreeExplainer Kernel]
+[Approval & Risk Score] ◄────────────────────────────────────────┴── [Probability Output]
 ```
 
-- **Architecture Highlights:** Reusable preprocessing pipeline on UCI Credit dataset, instant top-k contributing feature vectors, and mock-mode fallback for offline testing.
+- **Architecture Highlights:** Reusable preprocessing pipeline on UCI Credit dataset, benchmarked F1/ROC-AUC metrics, and mock-mode fallback for offline testing.
 - 🔗 **Links:** [Source Code](https://github.com/kd4dev/loan_)
 
 </details>
@@ -156,10 +156,9 @@ Click each project below to reveal the **System Architecture Blueprint & Data Fl
     </td>
   </tr>
   <tr>
-    <td width="20%"><b>Machine Learning & XAI</b></td>
+    <td width="20%"><b>Machine Learning & Data</b></td>
     <td>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/SHAP-Explainable_AI-FF6F00?style=flat-square" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
       <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
