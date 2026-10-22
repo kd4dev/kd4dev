@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Kedar Baswade 👋
-### Software Engineer • Backend & Full-Stack • ML/XAI • Competitive Programmer
+### Software Engineer • Backend & Full-Stack • ML/DL • Competitive Programmer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kedarbaswade.vercel.app-e7b832?style=for-the-badge&logo=vercel&logoColor=white)](https://kedarbaswade.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kedar_Baswade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kedar-baswade-784b95404/)
